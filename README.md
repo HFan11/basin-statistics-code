@@ -1,2 +1,2 @@
 # basin-statistics-code
-This is the partial code of UIUC HW 3. 
+This is the partial code of UIUC CEE 450 HW 3. 
