@@ -1,2 +1,2 @@
 # Basin-Statistics-Code
-This is the partial code of UIUC CEE 450 HW 3 taught by Prof. Siva. 
+There are codes of UIUC CEE 450  taught by Prof. Tingju Zhu and Prof. Siva. 
